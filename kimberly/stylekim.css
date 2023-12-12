@@ -179,8 +179,8 @@ main {
 }
 
 .container {
-    height: 460px;
-    width: 800px;
+    height: 380px;
+    width: 45em;
     overflow: hidden;
     position: absolute;
     transform: translate(-50%, -50%);
